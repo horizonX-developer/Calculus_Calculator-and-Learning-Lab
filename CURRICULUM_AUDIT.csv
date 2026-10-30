@@ -1,0 +1,91 @@
+﻿Subject,Unit,Topic,Calculator,Practice,Visualization,Guided_steps,Verification,Status
+Differential Calculus,Foundations,Functions and graphs,Not verified,Not verified,Selected cases,Not audited,Needs topic-specific tests,Partial
+Differential Calculus,Foundations,Limits,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Calculus,Foundations,One-sided and infinite limits,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Calculus,Foundations,Continuity,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Calculus,Foundations,Derivative from first principles,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Calculus,Differentiation,Power and sum rules,Selected examples,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Calculus,Differentiation,Product and quotient rules,Selected examples,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Calculus,Differentiation,Chain rule,Selected examples,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Calculus,Differentiation,Trigonometric derivatives,Selected examples,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Calculus,Differentiation,Inverse trigonometric derivatives,Selected examples,Not verified,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Calculus,Differentiation,Exponential and logarithmic derivatives,Selected examples,Not verified,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Calculus,Differentiation,Implicit differentiation,Selected examples,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Calculus,Differentiation,Logarithmic differentiation,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Calculus,Differentiation,Higher derivatives,Selected examples,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Calculus,Applications,Tangent and normal lines,Selected examples,Not verified,Selected cases,Not audited,Needs topic-specific tests,Partial
+Differential Calculus,Applications,Related rates,Not verified,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Calculus,Applications,Critical points and extrema,Selected examples,Not verified,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Calculus,Applications,Mean Value Theorem,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Calculus,Applications,Optimization,Not verified,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Calculus,Applications,Curve sketching,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Calculus,Applications,L’Hôpital’s rule,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Calculus,Applications,Linear approximation and differentials,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Calculus,Advanced,Parametric derivatives,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Calculus,Advanced,Polar derivatives,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Calculus,Advanced,Partial derivatives,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Calculus,Advanced,Directional derivatives,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Calculus,Advanced,Gradient and multivariable chain rule,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Integral Calculus,Foundations,Antiderivatives,Selected examples,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Integral Calculus,Foundations,Definite integrals,Selected examples,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Integral Calculus,Foundations,Summation notation,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Integral Calculus,Foundations,Left Riemann sums,Selected examples,Not verified,Selected cases,Not audited,Needs topic-specific tests,Partial
+Integral Calculus,Foundations,Right Riemann sums,Selected examples,Selected templates,Selected cases,Not audited,Needs topic-specific tests,Partial
+Integral Calculus,Foundations,Midpoint Riemann sums,Selected examples,Not verified,Selected cases,Not audited,Needs topic-specific tests,Partial
+Integral Calculus,Foundations,Limits of Riemann sums,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Integral Calculus,Foundations,Fundamental Theorem of Calculus,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Integral Calculus,Techniques,Power and substitution rules,Selected examples,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Integral Calculus,Techniques,Integration by parts,Selected examples,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Integral Calculus,Techniques,Trigonometric integrals,Selected examples,Not verified,Not verified,Not audited,Needs topic-specific tests,Partial
+Integral Calculus,Techniques,Trigonometric substitution,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Integral Calculus,Techniques,Partial fractions,Selected examples,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Integral Calculus,Techniques,Improper integrals,Selected examples,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Integral Calculus,Techniques,Numerical integration: trapezoidal,Selected examples,Not verified,Not verified,Not audited,Needs topic-specific tests,Partial
+Integral Calculus,Techniques,Numerical integration: Simpson’s rule,Selected examples,Not verified,Not verified,Not audited,Needs topic-specific tests,Partial
+Integral Calculus,Applications,Area under a curve,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Integral Calculus,Applications,Area between curves,Selected examples,Selected templates,Selected cases,Not audited,Needs topic-specific tests,Partial
+Integral Calculus,Applications,Volumes: disks,Selected examples,Selected templates,Selected cases,Not audited,Needs topic-specific tests,Partial
+Integral Calculus,Applications,Volumes: washers,Selected examples,Selected templates,Selected cases,Not audited,Needs topic-specific tests,Partial
+Integral Calculus,Applications,Volumes: cylindrical shells,Selected examples,Selected templates,Selected cases,Not audited,Needs topic-specific tests,Partial
+Integral Calculus,Applications,Arc length,Selected examples,Not verified,Not verified,Not audited,Needs topic-specific tests,Partial
+Integral Calculus,Applications,Surface area of revolution,Selected examples,Not verified,Not verified,Not audited,Needs topic-specific tests,Partial
+Integral Calculus,Applications,Average value,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Integral Calculus,Applications,Work and fluid pressure,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Integral Calculus,Applications,Center of mass and moments,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Integral Calculus,Advanced,Polar area,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Integral Calculus,Advanced,Parametric arc length,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Integral Calculus,Advanced,Double integrals,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Integral Calculus,Advanced,Triple integrals,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Integral Calculus,Advanced,Line integrals,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Integral Calculus,Advanced,Surface integrals,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Foundations,"Order, degree, and classification",Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Foundations,Initial-value problems,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Foundations,Slope fields,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Foundations,Separable equations,Selected examples,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Equations,Foundations,First-order linear equations,Selected examples,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Equations,Foundations,Homogeneous first-order substitutions,Selected examples,Not verified,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Equations,Foundations,Exact equations,Selected examples,Not verified,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Equations,Foundations,Integrating factors,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Foundations,Bernoulli equations,Selected examples,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Equations,Higher-order,Second-order constant coefficients,Selected examples,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Equations,Higher-order,Repeated and complex roots,Selected examples,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Equations,Higher-order,Nonhomogeneous equations,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Higher-order,Undetermined coefficients,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Higher-order,Variation of parameters,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Higher-order,Cauchy–Euler equations,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Higher-order,Higher-order linear equations,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Advanced,Laplace transforms,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Advanced,Inverse Laplace transforms,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Advanced,Systems of differential equations,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Advanced,Power-series solutions,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Advanced,Numerical Euler method,Not verified,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Equations,Advanced,Improved Euler method,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Advanced,Runge–Kutta method,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Advanced,Stability and phase portraits,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Advanced,Introduction to PDEs,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Modeling,Population growth and decay,Not verified,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Equations,Modeling,Newton’s law of cooling,Not verified,Selected templates,Not verified,Not audited,Needs topic-specific tests,Partial
+Differential Equations,Modeling,Mixing problems,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Modeling,Spring–mass systems,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Modeling,Electrical circuits,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
+Differential Equations,Modeling,Logistic growth,Not verified,Not verified,Not verified,Not audited,Needs topic-specific tests,Not yet verified
